@@ -27,7 +27,7 @@ Python + OpenCV + Tkinter
 ## Contato
 
 LinkedIn:  
-https://www.linkedin.com/in/guilherme-marques  
+https://www.linkedin.com/in/guilherme-marques-8232a73b3/
 
 Email:  
 guilherme.marques.devbr@gmail.com
